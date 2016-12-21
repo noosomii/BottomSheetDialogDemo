@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetDialogDemo</string>
+    <string name="dialog_add">New playlist</string>
+    <string name="dialog_edit">Edit playlist</string>
+    <string name="dialog_delete">Delete playlist</string>
+    <string name="btn_show">Show</string>
+</resources>
